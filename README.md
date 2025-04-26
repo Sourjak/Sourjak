@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sourjak
+- 👀 I’m interested in Web Development, Open Source, and Innovative Tech Projects
+- 🌱 I’m currently learning Backend Development (Python, Django) and exploring APIs
+- 💞️ I’m looking to collaborate on Web Development, Backend Projects, and Open Source Contributions
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sourjak-das-b570642b3) | Email: your.email@example.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving business problems and uncovering hidden data stories through code!
